@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>おきなわ行政お知らせ</title>
+<meta name="description" content="沖縄県と県内41市町村のホームページの新着お知らせを毎日まとめています。">
+<meta name="theme-color" content="#0f6e8c">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-title" content="行政お知らせ">
+<style>
+:root{
+  --bg:#f6f5f1; --surface:#ffffff; --ink:#1d2329; --muted:#66707a; --line:#e3e1da;
+  --accent:#0f6e8c; --accent-soft:#e3f1f5; --new:#d2553a;
+  --r-pref:#6b4fa0; --r-north:#2f7d4f; --r-central:#0f6e8c; --r-south:#b4632a; --r-miyako:#2a76b8; --r-yaeyama:#a8457a;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#14181c; --surface:#1c2227; --ink:#e7eaec; --muted:#9aa4ad; --line:#2c343b;
+    --accent:#5cc0dc; --accent-soft:#1d3440; --new:#ff8a6b;
+    --r-pref:#b59ce6; --r-north:#7fcf9c; --r-central:#5cc0dc; --r-south:#e9a46d; --r-miyako:#7fb8ec; --r-yaeyama:#e690c0;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#14181c; --surface:#1c2227; --ink:#e7eaec; --muted:#9aa4ad; --line:#2c343b;
+  --accent:#5cc0dc; --accent-soft:#1d3440; --new:#ff8a6b;
+  --r-pref:#b59ce6; --r-north:#7fcf9c; --r-central:#5cc0dc; --r-south:#e9a46d; --r-miyako:#7fb8ec; --r-yaeyama:#e690c0;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:15px/1.6 "Hiragino Sans","Yu Gothic UI","Yu Gothic","Meiryo",system-ui,sans-serif;-webkit-text-size-adjust:100%}
+a{color:inherit}
+.wrap{max-width:880px;margin:0 auto;padding:0 16px}
+header{padding:28px 0 14px}
+h1{font-size:22px;margin:0;letter-spacing:.02em}
+.sub{color:var(--muted);font-size:13px;margin-top:2px}
+.bar{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 0 12px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.row+.row{margin-top:8px}
+input[type=search],select{font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:7px 10px;min-width:0}
+input[type=search]{flex:1 1 220px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:inherit;font-size:13px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:4px 12px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+label.toggle{font-size:13px;display:flex;gap:6px;align-items:center;cursor:pointer;color:var(--muted)}
+.summary{color:var(--muted);font-size:13px;margin:14px 0 4px}
+.summary b{color:var(--ink)}
+.day{margin-top:18px}
+.day h2{font-size:13px;font-weight:600;color:var(--muted);margin:0 0 6px;padding-bottom:4px;border-bottom:1px solid var(--line)}
+.day h2 .rel{color:var(--accent);margin-left:6px}
+ul.list{list-style:none;margin:0;padding:0;background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+ul.list li{display:flex;gap:10px;align-items:baseline;padding:10px 14px;border-top:1px solid var(--line)}
+ul.list li:first-child{border-top:0}
+.muni{flex:0 0 auto;font-size:12px;font-weight:600;padding:1px 8px;border-radius:6px;border:1px solid currentColor;white-space:nowrap;cursor:pointer;background:none;font-family:inherit}
+.muni[data-r="県"]{color:var(--r-pref)} .muni[data-r="北部"]{color:var(--r-north)} .muni[data-r="中部"]{color:var(--r-central)}
+.muni[data-r="南部"]{color:var(--r-south)} .muni[data-r="宮古"]{color:var(--r-miyako)} .muni[data-r="八重山"]{color:var(--r-yaeyama)}
+.body{min-width:0;flex:1}
+.body a{text-decoration:none;overflow-wrap:anywhere}
+.body a:hover{text-decoration:underline;color:var(--accent)}
+.body a:visited{color:var(--muted)}
+.meta{font-size:12px;color:var(--muted)}
+.new{font-size:11px;font-weight:700;color:var(--new);margin-left:6px;letter-spacing:.05em}
+.more{display:block;margin:16px auto;font:inherit;padding:8px 22px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+.empty{padding:40px 0;text-align:center;color:var(--muted)}
+details.status{margin:36px 0 48px;font-size:13px;color:var(--muted)}
+details.status summary{cursor:pointer}
+.stgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:4px 14px;margin-top:10px}
+.stgrid a{text-decoration:none}
+.stgrid .ng{color:var(--new)}
+mark{background:var(--accent-soft);color:inherit;border-radius:3px}
+@media (max-width:560px){ ul.list li{flex-direction:column;gap:4px} h1{font-size:19px} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>おきなわ行政お知らせ</h1>
+    <div class="sub">沖縄県と県内41市町村の新着情報まとめ ・ <span id="updated"></span></div>
+  </header>
+</div>
+<div class="bar">
+  <div class="wrap">
+    <div class="row">
+      <input type="search" id="q" placeholder="キーワードで絞り込み（例: 募集、台風、給付金）" aria-label="キーワード">
+      <select id="muni" aria-label="市町村"></select>
+      <select id="period" aria-label="期間">
+        <option value="3">3日以内</option>
+        <option value="7" selected>1週間以内</option>
+        <option value="30">1か月以内</option>
+        <option value="0">すべて</option>
+      </select>
+    </div>
+    <div class="row">
+      <div class="chips" id="regions"></div>
+      <label class="toggle"><input type="checkbox" id="onlyNew"> 前回以降の新着のみ</label>
+    </div>
+  </div>
+</div>
+<main class="wrap">
+  <div class="summary" id="summary"></div>
+  <div id="list"></div>
+  <details class="status"><summary>取得状況</summary><div class="stgrid" id="status"></div></details>
+</main>
+<script>
+const DATA = /*__DATA__*/null;
+const REGIONS = ["すべて","県","北部","中部","南部","宮古","八重山"];
+const WD = "日月火水木金土";
+const $ = id => document.getElementById(id);
+const store = {
+  get(k){ try { return localStorage.getItem(k); } catch(e){ return null; } },
+  set(k,v){ try { localStorage.setItem(k,v); } catch(e){} },
+  sget(k){ try { return sessionStorage.getItem(k); } catch(e){ return null; } },
+  sset(k,v){ try { sessionStorage.setItem(k,v); } catch(e){} }
+};
+if (!DATA) {
+  $("list").innerHTML = '<p class="empty">データがありません。fetch_news.py を実行すると index.html が作られます。</p>';
+} else {
+  // 前回閲覧時刻（同じタブで再読み込みしても新着表示を保つ）
+  let prev = store.sget("okn_prev");
+  if (prev === null) { prev = store.get("okn_lastSeen") || ""; store.sset("okn_prev", prev); }
+  store.set("okn_lastSeen", DATA.updated);
+  const isNew = it => prev && it.first_seen > prev;
+
+  const d = new Date(DATA.updated);
+  $("updated").textContent = `最終更新 ${d.getMonth()+1}月${d.getDate()}日 ${String(d.getHours()).padStart(2,"0")}:${String(d.getMinutes()).padStart(2,"0")}`;
+
+  const state = { q:"", region:"すべて", muni:"", period:7, onlyNew:false, limit:150 };
+  try { Object.assign(state, JSON.parse(store.get("okn_filter") || "{}"), {q:"", limit:150}); } catch(e){}
+
+  // 地域チップ
+  REGIONS.forEach(r => {
+    const b = document.createElement("button");
+    b.className = "chip"; b.textContent = r; b.dataset.r = r;
+    b.onclick = () => { state.region = r; state.muni = ""; update(); };
+    $("regions").appendChild(b);
+  });
+  // 市町村セレクト
+  const counts = {}; DATA.items.forEach(i => counts[i.muni] = (counts[i.muni]||0)+1);
+  let html = '<option value="">すべての市町村</option>';
+  REGIONS.slice(1).forEach(r => {
+    html += `<optgroup label="${r}">` + DATA.sources.filter(s => s.region === r)
+      .map(s => `<option value="${s.name}">${s.name}（${counts[s.name]||0}）</option>`).join("") + "</optgroup>";
+  });
+  $("muni").innerHTML = html;
+
+  $("q").oninput = e => { state.q = e.target.value.trim(); state.limit = 150; render(); };
+  $("muni").onchange = e => { state.muni = e.target.value; if (state.muni) state.region = "すべて"; update(); };
+  $("period").onchange = e => { state.period = +e.target.value; update(); };
+  $("onlyNew").onchange = e => { state.onlyNew = e.target.checked; update(); };
+
+  function update(){
+    state.limit = 150;
+    store.set("okn_filter", JSON.stringify({region:state.region, muni:state.muni, period:state.period, onlyNew:state.onlyNew}));
+    render();
+  }
+  const esc = s => s.replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const hl = (s, q) => {
+    let out = esc(s);
+    if (!q) return out;
+    q.split(/\s+/).filter(Boolean).forEach(w => {
+      const re = new RegExp(esc(w).replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "gi");
+      out = out.replace(re, m => `<mark>${m}</mark>`);
+    });
+    return out;
+  };
+  const dayKey = iso => iso.slice(0,10);
+  function dayLabel(key){
+    const [y,m,dd] = key.split("-").map(Number);
+    const t = new Date(y, m-1, dd), today = new Date(); today.setHours(0,0,0,0);
+    const diff = Math.round((today - t) / 86400000);
+    const rel = diff === 0 ? "今日" : diff === 1 ? "昨日" : "";
+    return `${y !== today.getFullYear() ? y + "年" : ""}${m}月${dd}日（${WD[t.getDay()]}）` + (rel ? `<span class="rel">${rel}</span>` : "");
+  }
+
+  function render(){
+    document.querySelectorAll("#regions .chip").forEach(b => b.setAttribute("aria-pressed", b.dataset.r === state.region));
+    $("muni").value = state.muni; $("period").value = String(state.period); $("onlyNew").checked = state.onlyNew;
+    const since = state.period ? new Date(Date.now() - state.period * 86400000).toISOString() : "";
+    const words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+    const hits = DATA.items.filter(i =>
+      (state.region === "すべて" || i.region === state.region) &&
+      (!state.muni || i.muni === state.muni) &&
+      (!since || new Date(i.date).toISOString() >= since) &&
+      (!state.onlyNew || isNew(i)) &&
+      words.every(w => (i.title + " " + i.muni + " " + (i.cat||"")).toLowerCase().includes(w)));
+    const newCount = hits.filter(isNew).length;
+    $("summary").innerHTML = `<b>${hits.length}</b>件` + (prev ? `（前回以降の新着 <b>${newCount}</b>件）` : "");
+    if (!hits.length) { $("list").innerHTML = '<p class="empty">条件に合うお知らせはありません。</p>'; return; }
+    let out = "", cur = null;
+    hits.slice(0, state.limit).forEach(i => {
+      const k = dayKey(i.date);
+      if (k !== cur) { if (cur) out += "</ul></section>"; cur = k; out += `<section class="day"><h2>${dayLabel(k)}</h2><ul class="list">`; }
+      out += `<li><button class="muni" data-r="${i.region}" data-m="${esc(i.muni)}" title="${esc(i.muni)}だけを表示">${esc(i.muni)}</button>`
+           + `<div class="body"><a href="${esc(i.link)}" target="_blank" rel="noopener">${hl(i.title, state.q)}</a>`
+           + (isNew(i) ? '<span class="new">NEW</span>' : "")
+           + ((i.cat || !i.dated) ? `<div class="meta">${esc(i.cat||"")}${!i.dated ? (i.cat ? " ・ " : "") + "日付は取得日" : ""}</div>` : "")
+           + "</div></li>";
+    });
+    out += "</ul></section>";
+    if (hits.length > state.limit) out += `<button class="more" id="more">さらに表示（残り${hits.length - state.limit}件）</button>`;
+    $("list").innerHTML = out;
+    const more = $("more"); if (more) more.onclick = () => { state.limit += 150; render(); };
+    document.querySelectorAll("#list .muni").forEach(b => b.onclick = () => { state.muni = b.dataset.m; state.region = "すべて"; update(); window.scrollTo({top:0}); });
+  }
+
+  $("status").innerHTML = DATA.sources.map(s =>
+    `<div class="${s.ok ? "" : "ng"}"><a href="${esc(s.home)}" target="_blank" rel="noopener">${esc(s.name)}</a> ${s.ok ? s.count + "件" : "取得失敗"}</div>`).join("");
+  render();
+}
+</script>
+</body>
+</html>

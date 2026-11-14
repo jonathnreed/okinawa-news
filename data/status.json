@@ -1,0 +1,383 @@
+{
+ "updated": "2026-11-14T20:13:03+09:00",
+ "sources": [
+  {
+   "name": "沖縄県",
+   "region": "県",
+   "home": "https://www.pref.okinawa.lg.jp/",
+   "ok": true,
+   "count": 144,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "名護市",
+   "region": "北部",
+   "home": "https://www.city.nago.okinawa.jp/",
+   "ok": true,
+   "count": 20,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "国頭村",
+   "region": "北部",
+   "home": "https://www.vill.kunigami.okinawa.jp/",
+   "ok": true,
+   "count": 10,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "大宜味村",
+   "region": "北部",
+   "home": "https://www.vill.ogimi.okinawa.jp/",
+   "ok": true,
+   "count": 60,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "東村",
+   "region": "北部",
+   "home": "https://www.vill.higashi.okinawa.jp/",
+   "ok": true,
+   "count": 60,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "今帰仁村",
+   "region": "北部",
+   "home": "https://www.nakijin.jp/",
+   "ok": true,
+   "count": 60,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "本部町",
+   "region": "北部",
+   "home": "https://www.town.motobu.okinawa.jp/",
+   "ok": true,
+   "count": 10,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "恩納村",
+   "region": "北部",
+   "home": "https://www.vill.onna.okinawa.jp/",
+   "ok": true,
+   "count": 100,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "宜野座村",
+   "region": "北部",
+   "home": "https://www.vill.ginoza.okinawa.jp/",
+   "ok": true,
+   "count": 60,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "金武町",
+   "region": "北部",
+   "home": "https://www.town.kin.okinawa.jp/",
+   "ok": true,
+   "count": 60,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "伊江村",
+   "region": "北部",
+   "home": "https://www.iejima.org/",
+   "ok": true,
+   "count": 6,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "伊平屋村",
+   "region": "北部",
+   "home": "https://www.vill.iheya.okinawa.jp/",
+   "ok": true,
+   "count": 100,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "伊是名村",
+   "region": "北部",
+   "home": "https://vill.izena.okinawa.jp/",
+   "ok": true,
+   "count": 100,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "宜野湾市",
+   "region": "中部",
+   "home": "https://www.city.ginowan.lg.jp/",
+   "ok": true,
+   "count": 60,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "浦添市",
+   "region": "中部",
+   "home": "https://www.city.urasoe.lg.jp/",
+   "ok": true,
+   "count": 20,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "沖縄市",
+   "region": "中部",
+   "home": "https://www.city.okinawa.okinawa.jp/",
+   "ok": true,
+   "count": 10,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "うるま市",
+   "region": "中部",
+   "home": "https://www.city.uruma.lg.jp/",
+   "ok": true,
+   "count": 10,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "読谷村",
+   "region": "中部",
+   "home": "https://www.vill.yomitan.okinawa.jp/",
+   "ok": true,
+   "count": 60,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "嘉手納町",
+   "region": "中部",
+   "home": "https://www.town.kadena.okinawa.jp/",
+   "ok": true,
+   "count": 15,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "北谷町",
+   "region": "中部",
+   "home": "https://www.chatan.jp/",
+   "ok": true,
+   "count": 49,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "北中城村",
+   "region": "中部",
+   "home": "https://www.vill.kitanakagusuku.lg.jp/",
+   "ok": true,
+   "count": 60,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "中城村",
+   "region": "中部",
+   "home": "https://www.vill.nakagusuku.okinawa.jp/",
+   "ok": true,
+   "count": 95,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "西原町",
+   "region": "中部",
+   "home": "https://www.town.nishihara.okinawa.jp/",
+   "ok": true,
+   "count": 100,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "那覇市",
+   "region": "南部",
+   "home": "https://www.city.naha.okinawa.jp/",
+   "ok": true,
+   "count": 150,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "糸満市",
+   "region": "南部",
+   "home": "https://www.city.itoman.lg.jp/",
+   "ok": true,
+   "count": 100,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "豊見城市",
+   "region": "南部",
+   "home": "https://www.city.tomigusuku.lg.jp/",
+   "ok": true,
+   "count": 60,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "南城市",
+   "region": "南部",
+   "home": "https://www.city.nanjo.okinawa.jp/",
+   "ok": true,
+   "count": 100,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "与那原町",
+   "region": "南部",
+   "home": "https://www.town.yonabaru.okinawa.jp/",
+   "ok": true,
+   "count": 100,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "南風原町",
+   "region": "南部",
+   "home": "https://www.town.haebaru.lg.jp/",
+   "ok": true,
+   "count": 100,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "八重瀬町",
+   "region": "南部",
+   "home": "https://www.town.yaese.lg.jp/",
+   "ok": true,
+   "count": 10,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "渡嘉敷村",
+   "region": "南部",
+   "home": "https://www.vill.tokashiki.okinawa.jp/",
+   "ok": true,
+   "count": 60,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "座間味村",
+   "region": "南部",
+   "home": "https://www.vill.zamami.okinawa.jp/",
+   "ok": true,
+   "count": 100,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "粟国村",
+   "region": "南部",
+   "home": "https://www.vill.aguni.okinawa.jp/",
+   "ok": true,
+   "count": 60,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "渡名喜村",
+   "region": "南部",
+   "home": "http://www.vill.tonaki.okinawa.jp/",
+   "ok": true,
+   "count": 10,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "南大東村",
+   "region": "南部",
+   "home": "https://www.vill.minamidaito.okinawa.jp/",
+   "ok": true,
+   "count": 100,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "北大東村",
+   "region": "南部",
+   "home": "https://vill.kitadaito.okinawa.jp/",
+   "ok": true,
+   "count": 10,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "久米島町",
+   "region": "南部",
+   "home": "https://www.town.kumejima.okinawa.jp/",
+   "ok": true,
+   "count": 10,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "宮古島市",
+   "region": "宮古",
+   "home": "https://www.city.miyakojima.lg.jp/",
+   "ok": true,
+   "count": 50,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "多良間村",
+   "region": "宮古",
+   "home": "https://www.vill.tarama.okinawa.jp/",
+   "ok": true,
+   "count": 13,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "石垣市",
+   "region": "八重山",
+   "home": "https://www.city.ishigaki.okinawa.jp/",
+   "ok": true,
+   "count": 60,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "竹富町",
+   "region": "八重山",
+   "home": "https://www.town.taketomi.lg.jp/",
+   "ok": true,
+   "count": 7,
+   "new": 0,
+   "errors": []
+  },
+  {
+   "name": "与那国町",
+   "region": "八重山",
+   "home": "https://www.town.yonaguni.okinawa.jp/",
+   "ok": true,
+   "count": 30,
+   "new": 0,
+   "errors": []
+  }
+ ]
+}
