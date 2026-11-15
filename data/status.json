@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-14T20:19:07+09:00",
+ "updated": "2026-11-15T10:33:21+09:00",
  "sources": [
   {
    "name": "沖縄県",
    "region": "県",
    "home": "https://www.pref.okinawa.lg.jp/",
    "ok": true,
-   "count": 144,
+   "count": 141,
    "new": 0,
    "errors": []
   },
@@ -160,7 +160,7 @@
    "home": "https://www.vill.yomitan.okinawa.jp/",
    "ok": true,
    "count": 60,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -177,7 +177,7 @@
    "region": "中部",
    "home": "https://www.chatan.jp/",
    "ok": true,
-   "count": 49,
+   "count": 48,
    "new": 0,
    "errors": []
   },
@@ -213,7 +213,7 @@
    "region": "南部",
    "home": "https://www.city.naha.okinawa.jp/",
    "ok": true,
-   "count": 150,
+   "count": 143,
    "new": 0,
    "errors": []
   },
@@ -232,7 +232,7 @@
    "home": "https://www.city.tomigusuku.lg.jp/",
    "ok": true,
    "count": 60,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -358,7 +358,7 @@
    "home": "https://www.city.ishigaki.okinawa.jp/",
    "ok": true,
    "count": 60,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {

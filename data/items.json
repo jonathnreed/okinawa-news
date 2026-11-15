@@ -10040,6 +10040,16 @@
 "first_seen": "2026-11-14T19:35:22+09:00"
 },
 {
+"muni": "石垣市",
+"region": "八重山",
+"title": "台風30号接近に伴うごみの収集について",
+"link": "https://www.city.ishigaki.okinawa.jp/soshiki/kankyo/1_1/12201.html",
+"cat": "",
+"date": "2026-10-22T16:46:49+09:00",
+"dated": true,
+"first_seen": "2026-11-15T10:33:21+09:00"
+},
+{
 "muni": "大宜味村",
 "region": "北部",
 "title": "令和8年12月2日より沖縄県最低賃金が改正されます。",
@@ -13260,6 +13270,16 @@
 "first_seen": "2026-11-14T19:35:22+09:00"
 },
 {
+"muni": "読谷村",
+"region": "中部",
+"title": "令和8年（2026年）10月から国民年金保険料の育児免除制度が始まります！",
+"link": "https://www.vill.yomitan.okinawa.jp/kurashi/hoken_nenkin/kokumin_nenkin/7482.html",
+"cat": "",
+"date": "2026-10-01T00:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-15T10:33:21+09:00"
+},
+{
 "muni": "東村",
 "region": "北部",
 "title": "中央公民館図書室",
@@ -13478,6 +13498,16 @@
 "date": "2026-09-30T16:54:22+09:00",
 "dated": true,
 "first_seen": "2026-11-14T19:35:22+09:00"
+},
+{
+"muni": "豊見城市",
+"region": "南部",
+"title": "豊見城市CKDシールの取り組みを始めます",
+"link": "https://www.city.tomigusuku.lg.jp/iryo_kenko_fukushi/iryo_kenko_fukushi/6/10223.html",
+"cat": "",
+"date": "2026-09-30T16:02:13+09:00",
+"dated": true,
+"first_seen": "2026-11-15T10:33:21+09:00"
 },
 {
 "muni": "座間味村",
@@ -19316,46 +19346,6 @@
 "link": "https://www.onna-culture.jp/information/6514/",
 "cat": "",
 "date": "2026-05-19T12:00:00+09:00",
-"dated": true,
-"first_seen": "2026-11-14T19:35:22+09:00"
-},
-{
-"muni": "座間味村",
-"region": "南部",
-"title": "令和８年度 沖縄県離島町村職員採用共同試験のお知らせ",
-"link": "https://www.vill.zamami.okinawa.jp/article/1779097435/",
-"cat": "",
-"date": "2026-05-19T10:00:00+09:00",
-"dated": true,
-"first_seen": "2026-11-14T19:35:22+09:00"
-},
-{
-"muni": "恩納村",
-"region": "北部",
-"title": "令和8年度上水道基本料金の免除について",
-"link": "https://www.vill.onna.okinawa.jp/topics/1779152558/",
-"cat": "",
-"date": "2026-05-19T09:00:00+09:00",
-"dated": true,
-"first_seen": "2026-11-14T19:35:22+09:00"
-},
-{
-"muni": "伊是名村",
-"region": "北部",
-"title": "令和８年度狂犬病予防注射についてお知らせ",
-"link": "https://vill.izena.okinawa.jp/userfiles/files/autoupload/2026/05/1779149124.pdf",
-"cat": "",
-"date": "2026-05-19T08:00:00+09:00",
-"dated": true,
-"first_seen": "2026-11-14T19:35:22+09:00"
-},
-{
-"muni": "南大東村",
-"region": "南部",
-"title": "住民票異動について",
-"link": "https://www.vill.minamidaito.okinawa.jp/site/navi/1284.html",
-"cat": "福祉民生課",
-"date": "2026-05-19T00:00:00+09:00",
 "dated": true,
 "first_seen": "2026-11-14T19:35:22+09:00"
 }
