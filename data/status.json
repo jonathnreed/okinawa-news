@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-16T10:37:22+09:00",
+ "updated": "2026-11-17T13:21:59+09:00",
  "sources": [
   {
    "name": "沖縄県",
    "region": "県",
    "home": "https://www.pref.okinawa.lg.jp/",
    "ok": true,
-   "count": 134,
-   "new": 2,
+   "count": 143,
+   "new": 9,
    "errors": []
   },
   {
@@ -16,7 +16,7 @@
    "home": "https://www.city.nago.okinawa.jp/",
    "ok": true,
    "count": 20,
-   "new": 0,
+   "new": 3,
    "errors": []
   },
   {
@@ -25,7 +25,7 @@
    "home": "https://www.vill.kunigami.okinawa.jp/",
    "ok": true,
    "count": 10,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -88,7 +88,7 @@
    "home": "https://www.town.kin.okinawa.jp/",
    "ok": true,
    "count": 60,
-   "new": 0,
+   "new": 2,
    "errors": []
   },
   {
@@ -96,8 +96,8 @@
    "region": "北部",
    "home": "https://www.iejima.org/",
    "ok": true,
-   "count": 6,
-   "new": 0,
+   "count": 5,
+   "new": 2,
    "errors": []
   },
   {
@@ -124,7 +124,7 @@
    "home": "https://www.city.ginowan.lg.jp/",
    "ok": true,
    "count": 60,
-   "new": 1,
+   "new": 3,
    "errors": []
   },
   {
@@ -133,7 +133,7 @@
    "home": "https://www.city.urasoe.lg.jp/",
    "ok": true,
    "count": 20,
-   "new": 1,
+   "new": 4,
    "errors": []
   },
   {
@@ -151,7 +151,7 @@
    "home": "https://www.city.uruma.lg.jp/",
    "ok": true,
    "count": 10,
-   "new": 3,
+   "new": 1,
    "errors": []
   },
   {
@@ -169,7 +169,7 @@
    "home": "https://www.town.kadena.okinawa.jp/",
    "ok": true,
    "count": 15,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -177,8 +177,8 @@
    "region": "中部",
    "home": "https://www.chatan.jp/",
    "ok": true,
-   "count": 48,
-   "new": 1,
+   "count": 50,
+   "new": 2,
    "errors": []
   },
   {
@@ -187,7 +187,7 @@
    "home": "https://www.vill.kitanakagusuku.lg.jp/",
    "ok": true,
    "count": 60,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -195,7 +195,7 @@
    "region": "中部",
    "home": "https://www.vill.nakagusuku.okinawa.jp/",
    "ok": true,
-   "count": 96,
+   "count": 97,
    "new": 1,
    "errors": []
   },
@@ -205,7 +205,7 @@
    "home": "https://www.town.nishihara.okinawa.jp/",
    "ok": true,
    "count": 100,
-   "new": 2,
+   "new": 1,
    "errors": []
   },
   {
@@ -213,8 +213,8 @@
    "region": "南部",
    "home": "https://www.city.naha.okinawa.jp/",
    "ok": true,
-   "count": 135,
-   "new": 0,
+   "count": 137,
+   "new": 3,
    "errors": []
   },
   {
@@ -223,7 +223,7 @@
    "home": "https://www.city.itoman.lg.jp/",
    "ok": true,
    "count": 100,
-   "new": 3,
+   "new": 7,
    "errors": []
   },
   {
@@ -232,7 +232,7 @@
    "home": "https://www.city.tomigusuku.lg.jp/",
    "ok": true,
    "count": 60,
-   "new": 1,
+   "new": 4,
    "errors": []
   },
   {
@@ -241,7 +241,7 @@
    "home": "https://www.city.nanjo.okinawa.jp/",
    "ok": true,
    "count": 100,
-   "new": 2,
+   "new": 1,
    "errors": []
   },
   {
@@ -259,7 +259,7 @@
    "home": "https://www.town.haebaru.lg.jp/",
    "ok": true,
    "count": 100,
-   "new": 2,
+   "new": 3,
    "errors": []
   },
   {
@@ -268,7 +268,7 @@
    "home": "https://www.town.yaese.lg.jp/",
    "ok": true,
    "count": 10,
-   "new": 0,
+   "new": 3,
    "errors": []
   },
   {
@@ -313,7 +313,7 @@
    "home": "https://www.vill.minamidaito.okinawa.jp/",
    "ok": true,
    "count": 100,
-   "new": 1,
+   "new": 2,
    "errors": []
   },
   {
@@ -331,7 +331,7 @@
    "home": "https://www.town.kumejima.okinawa.jp/",
    "ok": true,
    "count": 10,
-   "new": 1,
+   "new": 8,
    "errors": []
   },
   {
@@ -340,7 +340,7 @@
    "home": "https://www.city.miyakojima.lg.jp/",
    "ok": true,
    "count": 50,
-   "new": 1,
+   "new": 2,
    "errors": []
   },
   {
@@ -358,7 +358,7 @@
    "home": "https://www.city.ishigaki.okinawa.jp/",
    "ok": true,
    "count": 60,
-   "new": 3,
+   "new": 0,
    "errors": []
   },
   {
@@ -366,8 +366,8 @@
    "region": "八重山",
    "home": "https://www.town.taketomi.lg.jp/",
    "ok": true,
-   "count": 7,
-   "new": 0,
+   "count": 8,
+   "new": 1,
    "errors": []
   },
   {
