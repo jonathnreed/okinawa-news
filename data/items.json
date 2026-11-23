@@ -10,6 +10,36 @@
 "first_seen": "2026-11-20T11:52:48+09:00"
 },
 {
+"muni": "南大東村",
+"region": "南部",
+"title": "12月◎耳鼻咽喉科◎眼科の専門医による離島巡回診療のお知らせ",
+"link": "https://www.vill.minamidaito.okinawa.jp/site/hoken-c/2047.html",
+"cat": "福祉民生課",
+"date": "2026-11-23T10:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-23T11:22:17+09:00"
+},
+{
+"muni": "北谷町",
+"region": "中部",
+"title": "小中学校への入学について",
+"link": "https://www.chatan.jp/kosodate/kyouiku/kyoiku/nyugaku_tenko/schoolenrollment.html",
+"cat": "",
+"date": "2026-11-23T09:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-23T11:22:17+09:00"
+},
+{
+"muni": "石垣市",
+"region": "八重山",
+"title": "石垣漁港フィッシャリーナビジター 施設利用募集及び抽選会のお知らせ",
+"link": "https://www.city.ishigaki.okinawa.jp/kurashi_gyosei/shigoto_sangyo/norincjikusuisangyo/1/7018.html",
+"cat": "",
+"date": "2026-11-23T08:30:00+09:00",
+"dated": true,
+"first_seen": "2026-11-23T11:22:17+09:00"
+},
+{
 "muni": "石垣市",
 "region": "八重山",
 "title": "「企画展 伊波南哲没後50年－八重山を熱く思い続けた詩人－」について",
@@ -18,6 +48,16 @@
 "date": "2026-11-22T09:00:00+09:00",
 "dated": true,
 "first_seen": "2026-11-22T10:57:18+09:00"
+},
+{
+"muni": "名護市",
+"region": "北部",
+"title": "【発令中】林野火災注意報",
+"link": "https://www.city.nago.okinawa.jp/articles/2026112200013/",
+"cat": "注目情報",
+"date": "2026-11-22T00:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-23T11:22:17+09:00"
 },
 {
 "muni": "伊平屋村",
@@ -22636,46 +22676,6 @@
 "link": "https://www.vill.aguni.okinawa.jp/soshiki/minsei/minseika/kenkou_fukusi/kenkou_iryou/1356.html",
 "cat": "おしらせ",
 "date": "2026-05-27T17:25:00+09:00",
-"dated": true,
-"first_seen": "2026-11-14T19:35:22+09:00"
-},
-{
-"muni": "大宜味村",
-"region": "北部",
-"title": "帯状疱疹ワクチン定期予防接種について",
-"link": "https://www.vill.ogimi.okinawa.jp/iryo_kenko_fukushi/iryo_kenok/1231.html",
-"cat": "",
-"date": "2026-05-26T16:44:05+09:00",
-"dated": true,
-"first_seen": "2026-11-14T19:35:22+09:00"
-},
-{
-"muni": "大宜味村",
-"region": "北部",
-"title": "令和8年度 住民健診のご案内",
-"link": "https://www.vill.ogimi.okinawa.jp/soshiki/fukusihoken/gyomu/iryo_kenok/kenshinkenshin/866.html",
-"cat": "",
-"date": "2026-05-26T16:44:05+09:00",
-"dated": true,
-"first_seen": "2026-11-14T19:35:22+09:00"
-},
-{
-"muni": "大宜味村",
-"region": "北部",
-"title": "がん検診（胃・大腸・肺）",
-"link": "https://www.vill.ogimi.okinawa.jp/soshiki/fukusihoken/gyomu/iryo_kenok/kenshinkenshin/868.html",
-"cat": "",
-"date": "2026-05-26T16:44:05+09:00",
-"dated": true,
-"first_seen": "2026-11-14T19:35:22+09:00"
-},
-{
-"muni": "大宜味村",
-"region": "北部",
-"title": "乳がん検診・子宮頸がん検診",
-"link": "https://www.vill.ogimi.okinawa.jp/soshiki/fukusihoken/gyomu/iryo_kenok/kenshinkenshin/869.html",
-"cat": "",
-"date": "2026-05-26T16:44:05+09:00",
 "dated": true,
 "first_seen": "2026-11-14T19:35:22+09:00"
 }
