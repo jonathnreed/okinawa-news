@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:59:25+09:00",
+ "updated": "2026-11-27T12:58:10+09:00",
  "sources": [
   {
    "name": "沖縄県",
@@ -7,7 +7,7 @@
    "home": "https://www.pref.okinawa.lg.jp/",
    "ok": true,
    "count": 184,
-   "new": 7,
+   "new": 14,
    "errors": []
   },
   {
@@ -16,7 +16,7 @@
    "home": "https://www.city.nago.okinawa.jp/",
    "ok": true,
    "count": 20,
-   "new": 1,
+   "new": 3,
    "errors": []
   },
   {
@@ -25,7 +25,7 @@
    "home": "https://www.vill.kunigami.okinawa.jp/",
    "ok": true,
    "count": 10,
-   "new": 2,
+   "new": 1,
    "errors": []
   },
   {
@@ -34,7 +34,7 @@
    "home": "https://www.vill.ogimi.okinawa.jp/",
    "ok": true,
    "count": 60,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
@@ -52,7 +52,7 @@
    "home": "https://www.nakijin.jp/",
    "ok": true,
    "count": 60,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
@@ -79,7 +79,7 @@
    "home": "https://www.vill.ginoza.okinawa.jp/",
    "ok": true,
    "count": 60,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -96,8 +96,8 @@
    "region": "北部",
    "home": "https://www.iejima.org/",
    "ok": true,
-   "count": 4,
-   "new": 1,
+   "count": 3,
+   "new": 0,
    "errors": []
   },
   {
@@ -115,7 +115,7 @@
    "home": "https://vill.izena.okinawa.jp/",
    "ok": true,
    "count": 100,
-   "new": 0,
+   "new": 1,
    "errors": []
   },
   {
@@ -133,7 +133,7 @@
    "home": "https://www.city.urasoe.lg.jp/",
    "ok": true,
    "count": 20,
-   "new": 5,
+   "new": 4,
    "errors": []
   },
   {
@@ -142,7 +142,7 @@
    "home": "https://www.city.okinawa.okinawa.jp/",
    "ok": true,
    "count": 10,
-   "new": 2,
+   "new": 1,
    "errors": []
   },
   {
@@ -160,7 +160,7 @@
    "home": "https://www.vill.yomitan.okinawa.jp/",
    "ok": true,
    "count": 60,
-   "new": 0,
+   "new": 5,
    "errors": []
   },
   {
@@ -177,8 +177,8 @@
    "region": "中部",
    "home": "https://www.chatan.jp/",
    "ok": true,
-   "count": 48,
-   "new": 2,
+   "count": 49,
+   "new": 0,
    "errors": []
   },
   {
@@ -187,7 +187,7 @@
    "home": "https://www.vill.kitanakagusuku.lg.jp/",
    "ok": true,
    "count": 60,
-   "new": 1,
+   "new": 0,
    "errors": []
   },
   {
@@ -195,8 +195,8 @@
    "region": "中部",
    "home": "https://www.vill.nakagusuku.okinawa.jp/",
    "ok": true,
-   "count": 97,
-   "new": 1,
+   "count": 99,
+   "new": 2,
    "errors": []
   },
   {
@@ -205,7 +205,7 @@
    "home": "https://www.town.nishihara.okinawa.jp/",
    "ok": true,
    "count": 100,
-   "new": 0,
+   "new": 3,
    "errors": []
   },
   {
@@ -213,7 +213,7 @@
    "region": "南部",
    "home": "https://www.city.naha.okinawa.jp/",
    "ok": true,
-   "count": 132,
+   "count": 124,
    "new": 2,
    "errors": []
   },
@@ -223,7 +223,7 @@
    "home": "https://www.city.itoman.lg.jp/",
    "ok": true,
    "count": 100,
-   "new": 2,
+   "new": 3,
    "errors": []
   },
   {
@@ -232,7 +232,7 @@
    "home": "https://www.city.tomigusuku.lg.jp/",
    "ok": true,
    "count": 60,
-   "new": 1,
+   "new": 3,
    "errors": []
   },
   {
@@ -241,7 +241,7 @@
    "home": "https://www.city.nanjo.okinawa.jp/",
    "ok": true,
    "count": 100,
-   "new": 2,
+   "new": 1,
    "errors": []
   },
   {
@@ -250,7 +250,7 @@
    "home": "https://www.town.yonabaru.okinawa.jp/",
    "ok": true,
    "count": 100,
-   "new": 4,
+   "new": 1,
    "errors": []
   },
   {
@@ -268,7 +268,7 @@
    "home": "https://www.town.yaese.lg.jp/",
    "ok": true,
    "count": 10,
-   "new": 2,
+   "new": 1,
    "errors": []
   },
   {
@@ -286,7 +286,7 @@
    "home": "https://www.vill.zamami.okinawa.jp/",
    "ok": true,
    "count": 100,
-   "new": 0,
+   "new": 2,
    "errors": []
   },
   {
@@ -331,7 +331,7 @@
    "home": "https://www.town.kumejima.okinawa.jp/",
    "ok": true,
    "count": 10,
-   "new": 0,
+   "new": 3,
    "errors": []
   },
   {
@@ -358,7 +358,7 @@
    "home": "https://www.city.ishigaki.okinawa.jp/",
    "ok": true,
    "count": 60,
-   "new": 4,
+   "new": 2,
    "errors": []
   },
   {

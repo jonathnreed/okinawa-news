@@ -2,12 +2,442 @@
 {
 "muni": "嘉手納町",
 "region": "中部",
+"title": "嘉手納町子育て支援センター学童だより【たいよう１２月号】を掲載します。 - 暮らし情報",
+"link": "https://www.town.kadena.okinawa.jp/life/kur9183.html",
+"cat": "公立保育所・子育て支援センターだより",
+"date": "2026-11-27T12:58:10+09:00",
+"dated": false,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "八重瀬町",
+"region": "南部",
+"title": "不発弾処理作業へのご協力のお願い",
+"link": "https://www.town.yaese.lg.jp/docs/2026112500014/",
+"cat": "注意情報",
+"date": "2026-11-27T12:58:10+09:00",
+"dated": false,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "沖縄県",
+"region": "県",
+"title": "（働き方改革推進課）令和8年度（会議・研修会資料、実践紹介等）",
+"link": "https://www.pref.okinawa.lg.jp/kyoiku/edu/1008490/1008491/1008508/1024388/1039007.html",
+"cat": "",
+"date": "2026-11-27T12:00:19+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "宜野座村",
+"region": "北部",
+"title": "漢那団地建設工事（給水引込）に伴う車両通行止めについて",
+"link": "https://www.vill.ginoza.okinawa.jp/daij/1515.html",
+"cat": "暮らし・手続き",
+"date": "2026-11-27T12:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "浦添市",
+"region": "中部",
+"title": "令和９年度 給与支払報告書の提出について",
+"link": "https://www.city.urasoe.lg.jp/doc/2026093000183/",
+"cat": "新着情報",
+"date": "2026-11-27T12:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "糸満市",
+"region": "南部",
+"title": "兼城小学校にて「人権の花」運動植え付け式",
+"link": "https://www.city.itoman.lg.jp/soshiki/11/40978.html",
+"cat": "市民生活環境課",
+"date": "2026-11-27T12:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "石垣市",
+"region": "八重山",
+"title": "超小型EV「C+pod」の公用車カーシェアリングの実証実験について",
+"link": "https://www.city.ishigaki.okinawa.jp/soshiki/kikaku_seisaku/4/3/SDGs/12676.html",
+"cat": "",
+"date": "2026-11-27T11:47:01+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "国頭村",
+"region": "北部",
+"title": "国頭村地域交流スペースのイベント情報（令和８年１１月分）",
+"link": "https://www.vill.kunigami.okinawa.jp/k_kikaku/%e5%9b%bd%e9%a0%ad%e6%9d%91%e5%9c%b0%e5%9f%9f%e4%ba%a4%e6%b5%81%e3%82%b9%e3%83%9a%e3%83%bc%e3%82%b9%e3%81%ae%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e6%83%85%e5%a0%b1%ef%bc%88%ef%bc%97%e6%9c%88%e5%88%86/",
+"cat": "イベント情報",
+"date": "2026-11-27T11:30:10+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "宜野湾市",
+"region": "中部",
+"title": "★～新城放課後児童クラブのページ～★",
+"link": "https://www.city.ginowan.lg.jp/shisei/kokyoshisetsu/13/3/3727.html",
+"cat": "",
+"date": "2026-11-27T11:23:41+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "中城村",
+"region": "中部",
+"title": "旧優生保護法に基づく優生手術等の被害を受けられた方々へ",
+"link": "https://www.vill.nakagusuku.okinawa.jp/article/1794538273/",
+"cat": "",
+"date": "2026-11-27T11:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "久米島町",
+"region": "南部",
+"title": "【お知らせ】auショップカーが久米島町にやってきます！（12/5-6）",
+"link": "https://www.town.kumejima.okinawa.jp/docs/2026111300059/",
+"cat": "行事・イベント",
+"date": "2026-11-27T10:22:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "沖縄県",
+"region": "県",
+"title": "R8-沖縄県が提供を受ける電気通信役務（県本庁舎～県出先機関等）に係る一般競争入札",
+"link": "https://www.pref.okinawa.lg.jp/shigoto/nyusatsukeiyaku/1015342/1025066/1037591/1042177.html",
+"cat": "",
+"date": "2026-11-27T10:00:30+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "沖縄県",
+"region": "県",
+"title": "【期間限定】出前授業実施のご案内",
+"link": "https://www.pref.okinawa.lg.jp/bunkakoryu/bunkageijutsu/1009673/1009684/1042120.html",
+"cat": "",
+"date": "2026-11-27T10:00:27+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "沖縄県",
+"region": "県",
+"title": "「首里城跡展－発掘調査の軌跡－」オープニングセレモニーの開催",
+"link": "https://www.pref.okinawa.lg.jp/bunkakoryu/bunkageijutsu/1009673/1009684/1042088.html",
+"cat": "",
+"date": "2026-11-27T10:00:24+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "沖縄県",
+"region": "県",
+"title": "企画展「史跡首里城跡―発掘調査の軌跡ー」",
+"link": "https://www.pref.okinawa.lg.jp/bunkakoryu/bunkageijutsu/1009673/1009684/1042027.html",
+"cat": "",
+"date": "2026-11-27T10:00:22+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "西原町",
+"region": "中部",
+"title": "「お墓、トートーメー供養の相談会」開催のお知らせ",
+"link": "https://www.town.nishihara.okinawa.jp/soshiki/4/9966.html",
+"cat": "環境安全課",
+"date": "2026-11-27T10:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "沖縄県",
+"region": "県",
+"title": "令和8年度 中級・初級試験の最終合格発表等",
+"link": "https://www.pref.okinawa.lg.jp/kensei/jinji/1016520/1025773/1037167.html",
+"cat": "",
+"date": "2026-11-27T09:00:21+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "西原町",
+"region": "中部",
+"title": "「にしはら駅ナカマルシェ」が12月17日（木曜日）・18日（金曜日）に開催されます！",
+"link": "https://www.town.nishihara.okinawa.jp/soshiki/12/16979.html",
+"cat": "産業観光課",
+"date": "2026-11-27T09:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "石垣市",
+"region": "八重山",
+"title": "令和9年度 石垣市まち・ひとづくり支援センター入居団体公募について",
+"link": "https://www.city.ishigaki.okinawa.jp/soshiki/keiyaku_kanzai/2/2-3/9247.html",
+"cat": "",
+"date": "2026-11-27T09:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "南城市",
+"region": "南部",
+"title": "【公告】南城市つきしろIC南土地区画整理事業の事業計画変更（第8回）の認可について",
+"link": "https://www.city.nanjo.okinawa.jp/topics/1795056916/",
+"cat": "",
+"date": "2026-11-27T08:30:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "名護市",
+"region": "北部",
+"title": "避難指示等の発令及び臨時避難所の開設について",
+"link": "https://www.city.nago.okinawa.jp/articles/2026112700025/",
+"cat": "注目情報",
+"date": "2026-11-27T03:22:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "沖縄県",
+"region": "県",
+"title": "沖縄県立向陽高等学校寄宿舎居室空調機更新にかかる購入",
+"link": "https://www.pref.okinawa.lg.jp/shigoto/nyusatsukeiyaku/1015342/1025082/1038049/1042233.html",
+"cat": "",
+"date": "2026-11-27T00:00:20+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "うるま市",
+"region": "中部",
+"title": "【沖縄県】うるま・おきなわ ぐるっとバス実証運行",
+"link": "https://www.city.uruma.lg.jp/1009001000/contents/p000062.html",
+"cat": "暮らし・手続き",
+"date": "2026-11-27T00:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "読谷村",
+"region": "中部",
+"title": "読谷村総合計画審議会 委員を募集します",
+"link": "https://www.vill.yomitan.okinawa.jp/soshiki/kikaku_seisaku/gyomu/seisaku_keikaku/7550.html",
+"cat": "",
+"date": "2026-11-27T00:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "南風原町",
+"region": "南部",
+"title": "年末年始のごみ収集と持ち込みについて",
+"link": "https://www.town.haebaru.lg.jp/soshiki/7/14397.html",
+"cat": "住民環境課",
+"date": "2026-11-27T00:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "沖縄県",
+"region": "県",
+"title": "令和9年度委託訓練（障害者訓練）企画提案公募",
+"link": "https://www.pref.okinawa.lg.jp/shigoto/nyusatsukeiyaku/1015342/1025078/1042226.html",
+"cat": "",
+"date": "2026-11-26T21:00:23+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "沖縄県",
+"region": "県",
+"title": "令和9年度委託訓練（離職者等再就職訓練事業）企画提案公募",
+"link": "https://www.pref.okinawa.lg.jp/shigoto/nyusatsukeiyaku/1015342/1025078/1042202.html",
+"cat": "",
+"date": "2026-11-26T21:00:19+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "沖縄県",
+"region": "県",
+"title": "令和8年度「障害者雇用アンケート調査」業務委託に係る企画提案公募",
+"link": "https://www.pref.okinawa.lg.jp/shigoto/nyusatsukeiyaku/1015342/1025068/1037585/1042129.html",
+"cat": "",
+"date": "2026-11-26T18:00:24+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "那覇市",
+"region": "南部",
+"title": "那覇市観光大使",
+"link": "https://www.city.naha.okinawa.jp/kankou-bunka/kankou/1003485/1012710.html",
+"cat": "",
+"date": "2026-11-26T18:00:03+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "浦添市",
+"region": "中部",
+"title": "環境アセスメント「準備書」に係る説明会について（浦添市土地開発公社）",
+"link": "https://www.city.urasoe.lg.jp/doc/2026112600059/",
+"cat": "新着情報",
+"date": "2026-11-26T17:23:16+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "沖縄県",
+"region": "県",
+"title": "全国アビリンピック",
+"link": "https://www.pref.okinawa.lg.jp/shigoto/koyorodo/1011940/1011972/1032048.html",
+"cat": "",
+"date": "2026-11-26T17:00:18+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "那覇市",
+"region": "南部",
+"title": "漫湖公園スポーツエリア",
+"link": "https://www.city.naha.okinawa.jp/kurasitetuduki/matidukuri/1002572/1008473.html",
+"cat": "",
+"date": "2026-11-26T17:00:04+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "糸満市",
+"region": "南部",
+"title": "第2回糸満市産業まつり出店者・ステージ出演者募集中",
+"link": "https://www.city.itoman.lg.jp/site/site1/41076.html",
+"cat": "商工水産課",
+"date": "2026-11-26T17:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "豊見城市",
+"region": "南部",
+"title": "2027年（令和9年）豊見城市各中学校区「はたちの集い」開催について",
+"link": "https://www.city.tomigusuku.lg.jp/event_lecture/10356.html",
+"cat": "",
+"date": "2026-11-26T17:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "浦添市",
+"region": "中部",
+"title": "住民監査請求について",
+"link": "https://www.city.urasoe.lg.jp/doc/2026112600011/",
+"cat": "新着情報",
+"date": "2026-11-26T16:37:04+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "沖縄県",
+"region": "県",
+"title": "放課後児童クラブの魅力発信イベントについて",
+"link": "https://www.pref.okinawa.lg.jp/kyoiku/kosodate/1008226/1042237.html",
+"cat": "",
+"date": "2026-11-26T16:00:27+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "沖縄県",
+"region": "県",
+"title": "宮古高校体育館消防設備改修工事",
+"link": "https://www.pref.okinawa.lg.jp/shigoto/nyusatsukeiyaku/1015342/1025081/1037588/1042236.html",
+"cat": "",
+"date": "2026-11-26T16:00:23+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "久米島町",
+"region": "南部",
+"title": "【R8.11.26更新】福祉課 令和8年度会計年度任用職員（看護師）募集について",
+"link": "https://www.town.kumejima.okinawa.jp/docs/2026111800023/",
+"cat": "人事・採用",
+"date": "2026-11-26T15:52:25+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "豊見城市",
+"region": "南部",
+"title": "【特設ページ】令和8年10月25日執行 豊見城市長選挙及び豊見城市議会議員選挙",
+"link": "https://www.city.tomigusuku.lg.jp/gyoseijoho/senkyo/1/10357.html",
+"cat": "",
+"date": "2026-11-26T15:39:09+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "嘉手納町",
+"region": "中部",
 "title": "ハッピーシニア出前講座について - お知らせ",
 "link": "https://www.town.kadena.okinawa.jp/info/n8882.html",
 "cat": "",
 "date": "2026-11-26T15:30:18+09:00",
 "dated": true,
 "first_seen": "2026-11-26T12:59:25+09:00"
+},
+{
+"muni": "沖縄県",
+"region": "県",
+"title": "宮古・八重山地区等出先機関におけるLAN機器等賃貸借",
+"link": "https://www.pref.okinawa.lg.jp/shigoto/nyusatsukeiyaku/1015342/1025069/1037583/1042210.html",
+"cat": "",
+"date": "2026-11-26T15:00:25+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "名護市",
+"region": "北部",
+"title": "令和８年度名護市子育て支援員研修受講者募集について",
+"link": "https://www.city.nago.okinawa.jp/articles/2026112600011/",
+"cat": "注目情報",
+"date": "2026-11-26T13:33:34+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "座間味村",
+"region": "南部",
+"title": "沖縄県最低賃金は １，０８６円です。",
+"link": "https://www.vill.zamami.okinawa.jp/article/1795669611/",
+"cat": "",
+"date": "2026-11-26T13:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "座間味村",
+"region": "南部",
+"title": "離島フェア2026 座間味村出展のお知らせ",
+"link": "https://www.vill.zamami.okinawa.jp/article/1795669433/",
+"cat": "",
+"date": "2026-11-26T13:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
 },
 {
 "muni": "宜野湾市",
@@ -18,6 +448,26 @@
 "date": "2026-11-26T12:59:25+09:00",
 "dated": false,
 "first_seen": "2026-11-26T12:59:25+09:00"
+},
+{
+"muni": "浦添市",
+"region": "中部",
+"title": "浦添市広告入り子育て支援情報誌無償提供に係る公募型プロポーザルの結果について",
+"link": "https://www.city.urasoe.lg.jp/doc/2026112000057/",
+"cat": "新着情報",
+"date": "2026-11-26T12:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "読谷村",
+"region": "中部",
+"title": "【11/28】証明書コンビニ交付 停止のお知らせ",
+"link": "https://www.vill.yomitan.okinawa.jp/pickup/7600.html",
+"cat": "",
+"date": "2026-11-26T12:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
 },
 {
 "muni": "糸満市",
@@ -32,7 +482,7 @@
 {
 "muni": "今帰仁村",
 "region": "北部",
-"title": "村長になりすましたメール等に注意してください！",
+"title": "【注意喚起】村長・役場職員・水道局職員を語る 不審なSMS・メールにご注意ください！",
 "link": "https://www.nakijin.jp/pagtop/topics/5472.html",
 "cat": "",
 "date": "2026-11-26T11:44:13+09:00",
@@ -190,6 +640,46 @@
 "first_seen": "2026-11-26T12:59:25+09:00"
 },
 {
+"muni": "伊是名村",
+"region": "北部",
+"title": "第78回人権週間",
+"link": "https://www.moj.go.jp/JINKEN/jinken03.html",
+"cat": "",
+"date": "2026-11-26T00:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "沖縄市",
+"region": "中部",
+"title": "各調理場こんだて",
+"link": "https://www.city.okinawa.okinawa.jp/k067-001/kosodate/gakkoukyouiku/gakkoukyuushoku/p00010.html",
+"cat": "子育て・教育",
+"date": "2026-11-26T00:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "うるま市",
+"region": "中部",
+"title": "自分のからだは、自分のもの♡～乳幼児期からはじめる性教育～",
+"link": "https://www.city.uruma.lg.jp/1005006000/contents/p000062.html",
+"cat": "子育て・教育",
+"date": "2026-11-26T00:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "西原町",
+"region": "中部",
+"title": "納税証明書の内容や取扱いの変更及び、申告用納税証明書の交付終了について",
+"link": "https://www.town.nishihara.okinawa.jp/soshiki/5/16955.html",
+"cat": "税務課",
+"date": "2026-11-26T00:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
 "muni": "沖縄市",
 "region": "中部",
 "title": "沖縄市福祉文化プラザ児童センター",
@@ -240,6 +730,16 @@
 "first_seen": "2026-11-26T12:59:25+09:00"
 },
 {
+"muni": "名護市",
+"region": "北部",
+"title": "春季における年次有給休暇取得促進",
+"link": "https://www.city.nago.okinawa.jp/articles/2026030300031/",
+"cat": "新着",
+"date": "2026-11-25T17:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
 "muni": "与那原町",
 "region": "南部",
 "title": "令和８年度御万人すりてぃクリーン・グリーン・グレイシャス（CGG）運動",
@@ -268,6 +768,16 @@
 "date": "2026-11-25T16:00:04+09:00",
 "dated": true,
 "first_seen": "2026-11-26T12:59:25+09:00"
+},
+{
+"muni": "宜野湾市",
+"region": "中部",
+"title": "令和9・10年度 宜野湾市建設工事競争入札参加について",
+"link": "https://www.city.ginowan.lg.jp/jigyosha/nyusatsu_keiyaku_kensa/3/3400.html",
+"cat": "",
+"date": "2026-11-25T16:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
 },
 {
 "muni": "宜野湾市",
@@ -428,6 +938,16 @@
 "date": "2026-11-25T13:00:20+09:00",
 "dated": true,
 "first_seen": "2026-11-25T13:48:02+09:00"
+},
+{
+"muni": "うるま市",
+"region": "中部",
+"title": "新EV車両導入について(津堅島公共交通)",
+"link": "https://www.city.uruma.lg.jp/1009001000/contents/p000061.html",
+"cat": "暮らし・手続き",
+"date": "2026-11-25T13:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
 },
 {
 "muni": "浦添市",
@@ -810,6 +1330,26 @@
 "first_seen": "2026-11-25T13:48:02+09:00"
 },
 {
+"muni": "南風原町",
+"region": "南部",
+"title": "令和8年度南風原町育英会(入学準備金)貸与生募集",
+"link": "https://www.town.haebaru.lg.jp/soshiki/17/9090.html",
+"cat": "教育総務課",
+"date": "2026-11-25T00:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
+"muni": "南風原町",
+"region": "南部",
+"title": "令和9年度南風原町育英会(学資金)貸与生募集",
+"link": "https://www.town.haebaru.lg.jp/soshiki/17/9086.html",
+"cat": "教育総務課",
+"date": "2026-11-25T00:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
 "muni": "うるま市",
 "region": "中部",
 "title": "証明書取得はコンビニ交付が便利でお得です",
@@ -1000,6 +1540,16 @@
 "first_seen": "2026-11-25T13:48:02+09:00"
 },
 {
+"muni": "読谷村",
+"region": "中部",
+"title": "読谷村議会議員名簿",
+"link": "https://www.vill.yomitan.okinawa.jp/gyosei_joho/gikai/about_gikai/2164.html",
+"cat": "",
+"date": "2026-11-24T16:40:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
 "muni": "名護市",
 "region": "北部",
 "title": "名護市企業版ふるさと納税マッチング支援業務委託に係る公募型プロポーザルの実施について",
@@ -1080,6 +1630,16 @@
 "first_seen": "2026-11-25T13:48:02+09:00"
 },
 {
+"muni": "嘉手納町",
+"region": "中部",
+"title": "《ご報告》相続フェアーを開催しました - お知らせ",
+"link": "https://www.town.kadena.okinawa.jp/info/n9181.html",
+"cat": "",
+"date": "2026-11-24T15:25:15+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
 "muni": "読谷村",
 "region": "中部",
 "title": "従業員が退職・休職・転勤したとき",
@@ -1158,6 +1718,16 @@
 "date": "2026-11-24T15:00:29+09:00",
 "dated": true,
 "first_seen": "2026-11-25T13:48:02+09:00"
+},
+{
+"muni": "糸満市",
+"region": "南部",
+"title": "【指名競争入札】伐採及び赤土流出対策工事（その3）に関する入札資料配布について",
+"link": "https://www.city.itoman.lg.jp/soshiki/42/40994.html",
+"cat": "区画整理課",
+"date": "2026-11-24T15:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
 },
 {
 "muni": "八重瀬町",
@@ -1248,6 +1818,16 @@
 "date": "2026-11-24T13:06:56+09:00",
 "dated": true,
 "first_seen": "2026-11-24T14:46:44+09:00"
+},
+{
+"muni": "久米島町",
+"region": "南部",
+"title": "令和９年久米島町新年祝賀会のご案内（1/6）",
+"link": "https://www.town.kumejima.okinawa.jp/docs/2025newyear/",
+"cat": "行事・イベント",
+"date": "2026-11-24T13:05:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
 },
 {
 "muni": "沖縄県",
@@ -1530,6 +2110,16 @@
 "first_seen": "2026-11-22T10:57:18+09:00"
 },
 {
+"muni": "読谷村",
+"region": "中部",
+"title": "※復旧済※【11/19～】証明書コンビニ交付 停止のお知らせ",
+"link": "https://www.vill.yomitan.okinawa.jp/kurashi/mynumber/6966.html",
+"cat": "",
+"date": "2026-11-22T06:30:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
 "muni": "名護市",
 "region": "北部",
 "title": "【発令中】林野火災注意報",
@@ -1628,6 +2218,16 @@
 "date": "2026-11-20T17:00:00+09:00",
 "dated": true,
 "first_seen": "2026-11-21T12:00:30+09:00"
+},
+{
+"muni": "中城村",
+"region": "中部",
+"title": "クリスマス音もだちコンサート開催のお知らせ",
+"link": "https://www.vill.nakagusuku.okinawa.jp/kanko/culture/festival/1795160547/",
+"cat": "",
+"date": "2026-11-20T16:42:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
 },
 {
 "muni": "浦添市",
@@ -1988,6 +2588,16 @@
 "date": "2026-11-20T08:30:00+09:00",
 "dated": true,
 "first_seen": "2026-11-20T11:52:48+09:00"
+},
+{
+"muni": "読谷村",
+"region": "中部",
+"title": "求人情報（令和8年11月20日）",
+"link": "https://www.vill.yomitan.okinawa.jp/shigoto_sangyo/koyo_shugyo/3455.html",
+"cat": "",
+"date": "2026-11-20T08:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
 },
 {
 "muni": "沖縄市",
@@ -2562,7 +3172,7 @@
 {
 "muni": "糸満市",
 "region": "南部",
-"title": "【指名競争入札】糸満市消防庁舎省エネ化工事監理業務に関する入札資料配布について",
+"title": "【指名競争入札】糸満市消防庁舎省エネ化工事監理業務に関する質疑について",
 "link": "https://www.city.itoman.lg.jp/soshiki/23/40962.html",
 "cat": "まちづくり課",
 "date": "2026-11-19T10:00:00+09:00",
@@ -4430,6 +5040,16 @@
 "first_seen": "2026-11-16T10:37:22+09:00"
 },
 {
+"muni": "宜野湾市",
+"region": "中部",
+"title": "令和8年度 介護保険施設等従事者向け研修受講者募集",
+"link": "https://www.city.ginowan.lg.jp/soshiki/kenko/1/jigyousha/18464.html",
+"cat": "",
+"date": "2026-11-16T10:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
+},
+{
 "muni": "嘉手納町",
 "region": "中部",
 "title": "《ニコニコ歯科健診のおさそい》 - お知らせ",
@@ -5028,6 +5648,16 @@
 "date": "2026-11-13T13:20:03+09:00",
 "dated": true,
 "first_seen": "2026-11-14T19:35:22+09:00"
+},
+{
+"muni": "豊見城市",
+"region": "南部",
+"title": "教育委員会の開催について",
+"link": "https://www.city.tomigusuku.lg.jp/kosodate_kyoiku/kyoikuiinkai/1513.html",
+"cat": "",
+"date": "2026-11-13T13:00:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
 },
 {
 "muni": "南城市",
@@ -10952,7 +11582,7 @@
 {
 "muni": "豊見城市",
 "region": "南部",
-"title": "豊見城市都市計画マスタープラン市民説明会＆講演会を開催します！",
+"title": "【11/26更新】豊見城市都市計画マスタープラン市民説明会＆講演会を開催します！",
 "link": "https://www.city.tomigusuku.lg.jp/shigoto_sangyo/kaihatsu_toshikeikaku/3/10304.html",
 "cat": "",
 "date": "2026-11-02T11:17:42+09:00",
@@ -12552,7 +13182,7 @@
 {
 "muni": "北中城村",
 "region": "中部",
-"title": "仲順児童館だより11月号を掲載しました",
+"title": "仲順児童館だより12月号を掲載しました",
 "link": "https://www.vill.kitanakagusuku.lg.jp/kakuka/kodomo/jidou/kosodate/jidokan/chunjun_jidokan/2846.html",
 "cat": "",
 "date": "2026-10-30T08:30:00+09:00",
@@ -12602,7 +13232,7 @@
 {
 "muni": "北中城村",
 "region": "中部",
-"title": "子育て支援センターだより11月号を掲載しました",
+"title": "子育て支援センターだより12月号を掲載しました",
 "link": "https://www.vill.kitanakagusuku.lg.jp/kakuka/kodomo/jidou/kosodate/child_raising_support_center/2728.html",
 "cat": "",
 "date": "2026-10-30T08:00:00+09:00",
@@ -13972,7 +14602,7 @@
 {
 "muni": "読谷村",
 "region": "中部",
-"title": "令和8年11月の学校給食予定献立について",
+"title": "令和8年12月の学校給食予定献立について",
 "link": "https://www.vill.yomitan.okinawa.jp/kosodate_kyoiku/school/kyushoku/5299.html",
 "cat": "",
 "date": "2026-10-27T00:00:00+09:00",
@@ -14732,7 +15362,7 @@
 {
 "muni": "北谷町",
 "region": "中部",
-"title": "11月のブックスタート",
+"title": "12月のブックスタート",
 "link": "https://www.chatan.jp/kosodate/library/bookstart/bookstart.html",
 "cat": "",
 "date": "2026-10-23T10:00:00+09:00",
@@ -16532,7 +17162,7 @@
 {
 "muni": "南城市",
 "region": "南部",
-"title": "令和８年第６回南城市議会定例会（９月）の議事日程（第５号）を掲載しました",
+"title": "令和８年第６回南城市議会定例会（９月）の議事日程（第２号～第４号）を掲載しました",
 "link": "https://www.city.nanjo.okinawa.jp/shisei/gikai/nittei/1767919938/",
 "cat": "",
 "date": "2026-10-15T15:20:00+09:00",
@@ -20938,6 +21568,16 @@
 "date": "2026-08-25T15:30:00+09:00",
 "dated": true,
 "first_seen": "2026-11-14T19:35:22+09:00"
+},
+{
+"muni": "与那原町",
+"region": "南部",
+"title": "与那原町議会だより",
+"link": "https://www.town.yonabaru.okinawa.jp/site/yonabaru/50.html",
+"cat": "議会事務局",
+"date": "2026-08-25T11:45:00+09:00",
+"dated": true,
+"first_seen": "2026-11-27T12:58:10+09:00"
 },
 {
 "muni": "与那原町",
